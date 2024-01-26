@@ -1,0 +1,23 @@
+name: CraftiSystems
+version: '${project.version}'
+main: me.bearlife.craftisystems.CraftiSystems
+api-version: '1.16'
+description: Custom plugin for CraftisLifeRP server
+commands:
+  stats:
+    description: Check your statistic
+    usage: /<command>
+    aliases:
+      - s
+  ATM:
+    description: Basically the atm interface
+    usage: /<command>
+  withdrawgui:
+    description: withdraw fron account using anvilGUI
+    usage: /<command>
+  transfergui:
+    description: transfer money to another player using anvilGUI
+    usage: /<command>
+  bounty:
+    description: add, set or remove bounty from a player
+    usage: /<command>

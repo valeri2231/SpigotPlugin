@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CraftiSystems:jar">
+    <output-path>$PROJECT_DIR$/../../MagmaServer/plugins</output-path>
+    <root id="archive" name="CraftiSystems.jar">
+      <element id="module-output" name="CraftiSystems" />
+    </root>
+  </artifact>
+</component>

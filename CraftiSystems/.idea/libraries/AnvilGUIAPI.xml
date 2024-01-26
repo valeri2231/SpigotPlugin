@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AnvilGUIAPI">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Wrapper1_16_R3.jar!/1_16_R3/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../Wrapper1_16_R3.jar!/abstraction/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../Wrapper1_16_R3.jar!/api/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

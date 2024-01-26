@@ -1,0 +1,11 @@
+me\bearlife\craftisystems\commands\BountyCommand.class
+me\bearlife\craftisystems\PlayerDataHandler.class
+me\bearlife\craftisystems\ATMListener.class
+me\bearlife\craftisystems\commands\TransferGUICallClass.class
+me\bearlife\craftisystems\managers\PlayerBountyManager.class
+me\bearlife\craftisystems\commands\ATMCommand.class
+me\bearlife\craftisystems\CraftiSystems.class
+me\bearlife\craftisystems\commands\StatsCommand.class
+me\bearlife\craftisystems\JoinLeaveListener.class
+me\bearlife\craftisystems\commands\AnvilGUICallClass.class
+me\bearlife\craftisystems\CraftiSystems$1.class
